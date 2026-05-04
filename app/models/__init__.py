@@ -1,1 +1,3 @@
-# Domain models will be added in future migrations.
+from app.models.method import Method
+
+__all__ = ["Method"]
